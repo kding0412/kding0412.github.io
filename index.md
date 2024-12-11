@@ -3,11 +3,11 @@
 I am an open university student at CSUF and I expect to graduate in 2028.
 
 ## Favorite CPSC 120L Labs
-* Lab 4, Part 1
+* Lab 4
 
   The reason I chose this lab is because it was my first exposure to a lab that can be applied in real life.  The practical nature of the subject matter also made me more interested, and it gives me greater motivation to improve my coding skills.
 
-* Lab 10, Part 1
+* Lab 10
 
    I chose Lab 10 because I believe it presents a more challenging topic that can effectively enhance my data handling skills. It also provides me with an understanding of modular programming. It has high practical value.
 
